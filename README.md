@@ -1,6 +1,6 @@
 Last Message Service
 ======================
-**Hope one never needs to use this...**
+(**Hope one never needs to use this...**)
 
 Think of those families who lost their loved ones unexpectedly and are now scrambling to find out all his/her bank accounts, investments, insurances, assets to stay afloat. Wouldn't it be nice if we are ready with such information thinking it is our last day and the message is ready to be triggered, if we are gone.
 
